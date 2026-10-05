@@ -21,7 +21,7 @@
   --radio: 10px;
   --serif: "Cormorant Garamond", Georgia, "Times New Roman", serif;
   --sans: "Source Sans 3", system-ui, -apple-system, "Segoe UI", sans-serif;
-  --franja: linear-gradient(90deg, var(--granate) 0 33.3%, #fff 33.3% 66.6%, var(--verde) 66.6%);
+   --franja: linear-gradient(90deg, var(--granate) 0 50%, #e8b739 50% 100%);
 }
 
 * { box-sizing: border-box; }
